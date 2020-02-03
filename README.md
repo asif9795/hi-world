@@ -1,2 +1,4 @@
 # hi-world
-My First GitHub Repo
+
+Hi All,
+This is my First GitHub Repo and my first change.
